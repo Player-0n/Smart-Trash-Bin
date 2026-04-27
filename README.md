@@ -76,5 +76,4 @@ Use solar power for sustainability
 Add advanced analytics and reporting
 
 📚 Project Context
-This system is developed as a Capstone Project for BSIT students at PHINMA University of Iloilo, aiming to improve waste management, promote environmental awareness, and encourage responsible behavior among students.
-
+This system is developed as a Capstone Project for MELCHOR L NAVA NATIONAL HIGH SCHOOL, aiming to improve waste management, promote environmental awareness, and encourage responsible behavior among students.
